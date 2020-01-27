@@ -33,11 +33,14 @@ public class Main {
         }
 
         // Printing the array with an enhanced for loop (a key)
-        for (String s:colors3) {
-            System.out.println(s);
-        }
+//        for (String s:colors3) {
+//            System.out.println(s);
+//        }
 
-
+        // Printing the array with an enhanced for loop (a key)
+//        for (String s:colors3) {
+//            colors3[s] = "red";
+//        }
 
 
     }

@@ -4,6 +4,8 @@ public class ComparingArrays {
         int[] numbers1 = {2,3,6,8,10};
         int[] numbers2 = {3,5,7,8,11};
 
+
+
         // using a nested for loop +
         for (int i = 0; i < numbers1.length; i++) {
 
